@@ -1,0 +1,18 @@
+===== Business Impact Summary =====
+Assumptions:
+- Average Revenue Per User (ARPU): $50 per year
+- Total Annual Users: 500000
+- Target Subgroup Size (top 20% responders): 100,000 users
+
+Full Rollout Loss (treatment hurts overall):
+- 500,000 users × -29.27% lift × $50 ARPU
+= $-7,317,500.00 per year (negative means revenue loss)
+
+Targeted Subgroup Profit (using S-Learner top responders):
+- 100,000 users × 37.11% lift × $50 ARPU
+= +$1,855,643.93 per year
+
+Net Savings by Targeting Subgroup Instead of Full Rollout:
+= Targeted Gain - Full Rollout Loss = $9,173,143.93 per year
+
+===== End of Business Impact Summary =====

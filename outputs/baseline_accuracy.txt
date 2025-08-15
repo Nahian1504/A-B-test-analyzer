@@ -1,0 +1,1 @@
+Baseline logistic regression accuracy: 0.9736
