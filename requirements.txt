@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scipy
+statsmodels
+pymc
+matplotlib
+seaborn
+streamlit
+lightgbm
+pyspark
+pytest
